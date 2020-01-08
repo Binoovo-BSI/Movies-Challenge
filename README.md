@@ -10,8 +10,8 @@ Upon clicking the name of a movie on the list, the user should be navigated to a
 
 You are recommended to use [**Angular**](https://angular.io/) to create the frontend, but you are free to use a different Javascript framework
 
-## Backend implementation ( Optional )
-Create a REST api to get a list of movies with the details or sign up for an online service where you can make calls to a movie API (https://www.themoviedb.org/documentation/api) or The Open Movie Database (https://www.omdbapi.com)
+## Backend implementation 
+Create a REST api to get a list of movies with the details (**optional**) or sign up for an online service where you can make calls to a movie API (https://www.themoviedb.org/documentation/api) or The Open Movie Database (https://www.omdbapi.com)
 
 You are recommended to use **Node.js** along with [**Express**](https://expressjs.com/) or [**Loopback**](https://loopback.io/) to implement your backend and API layer, but you are free to use a different language/framework/libraries you are comfortable with.
 
